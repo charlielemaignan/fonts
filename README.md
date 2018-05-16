@@ -1,2 +1,6 @@
 # fonts
-Font by Charlie Le Maignan, free to use
+Hello,
+
+Thoses fonts are free to use.
+
+Charlie.
