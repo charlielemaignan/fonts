@@ -5,7 +5,7 @@ This font is free to use.
 Take it and let me know what you make with it !
 Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.maignan/)
 
-[Charlie](http://charlielemaignan.com) 191019
+[©Charlie Le Maignan](http://charlielemaignan.com) 191019
 
 ![challenge-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/challenge/01.png)
 ![challenge-02](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/challenge/02.png)
