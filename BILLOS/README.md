@@ -2,6 +2,6 @@ Hello,
 
 This font is free to use. 
 Take it and let me know what you make with it !
-Tag me on instagram https://www.instagram.com/charlie.le.maignan/
+[Tag me on instagram](https://www.instagram.com/charlie.le.maignan/)
 
 Charlie
