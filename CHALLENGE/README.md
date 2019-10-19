@@ -11,3 +11,5 @@ Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.ma
 ![challenge-02](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/challenge/02.png)
 ![challenge-03](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/challenge/03.png)
 ![challenge-04](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/challenge/04.png)
+
+[©Charlie Le Maignan](http://charlielemaignan.com) 191019
