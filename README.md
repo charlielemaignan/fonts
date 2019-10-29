@@ -6,19 +6,19 @@ Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.ma
 [©Charlie Le Maignan](http://charlielemaignan.com) 191019
 
 
-## RALLYE™ [⤓](https://github.com/charlielemaignan/fonts/tree/master/RALLYE)
+## RALLYE™ [⤓⤓⤓](https://github.com/charlielemaignan/fonts/tree/master/RALLYE)
 ![rallye-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/rallye/01.png)
 
-## CHALLENGE™
+## CHALLENGE™ [⤓⤓⤓](https://github.com/charlielemaignan/fonts/tree/master/CHALLENGE)
 ![challenge-04](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/challenge/04.png)
 
-## BILLOS™
+## BILLOS™ [⤓⤓⤓](https://github.com/charlielemaignan/fonts/tree/master/BILLOS)
 ![billos-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/billos/01.png)
 
-## UNDIN™
+## UNDIN™ [⤓⤓⤓](https://github.com/charlielemaignan/fonts/tree/master/UNDIN)
 ![undin-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/undin/undin-01.png)
 
-## TERRIBLE™
+## TERRIBLE™ [⤓⤓⤓](https://github.com/charlielemaignan/fonts/tree/master/TERRIBLE)
 ![terrible-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/terrible/terrible-01.png)
 
 [©Charlie Le Maignan](http://charlielemaignan.com) 191019
