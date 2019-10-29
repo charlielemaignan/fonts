@@ -6,7 +6,7 @@ Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.ma
 [©Charlie Le Maignan](http://charlielemaignan.com) 191019
 
 
-## [RALLYE™] (https://github.com/charlielemaignan/fonts/tree/master/RALLYE)
+## RALLYE™ [⤓](https://github.com/charlielemaignan/fonts/tree/master/RALLYE)
 ![rallye-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/rallye/01.png)
 
 ## CHALLENGE™
