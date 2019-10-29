@@ -1,12 +1,12 @@
 # Download RALLYE™ CHALLENGE™ BILLOS™ for free
 
 Hello, thoses fonts are free to use. Take them and let me know what you make with it !
-Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.maignan/)
+Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.maignan/) or send me an email at bonjour.charlielemaignan@gmail.com
 
 [©Charlie Le Maignan](http://charlielemaignan.com) 191019
 
 
-## RALLYE™
+## [RALLYE™] (https://github.com/charlielemaignan/fonts/tree/master/RALLYE)
 ![rallye-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/rallye/01.png)
 
 ## CHALLENGE™
@@ -14,5 +14,11 @@ Tag me on instagram [charlie.le.maignan](https://www.instagram.com/charlie.le.ma
 
 ## BILLOS™
 ![billos-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/billos/01.png)
+
+## UNDIN™
+![undin-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/undin/undin-01.png)
+
+## TERRIBLE™
+![terrible-01](http://charlielemaignan.com/assets/img/projects/experimentation/typographie/terrible/terrible-01.png)
 
 [©Charlie Le Maignan](http://charlielemaignan.com) 191019
